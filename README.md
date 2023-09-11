@@ -17,3 +17,6 @@ The dataset consists of information about flight booking options from the Easemy
 11. Flight Code: Information about the flight of the aircraft is kept in the flight code.
 12. Journey Class: This is a categorised characteristic with two unique values: Business and Economy, and it contains information on seat class.
 13. Ticket Price: This column keeps track of the ticket price information.
+
+
+Dataset URL : https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction
